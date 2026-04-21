@@ -56,10 +56,7 @@ My background combines strong engineering fundamentals with leadership experienc
 
 ## 🎓 Certifications & Continuous Learning
 
-* Deep Learning Specialization – Coursera
 * Architecting with Google Compute Engine – Coursera
-* Claude Code in Action – Anthropic
-* OpenAI API – Platzi
 * AI Tools for Developers – Platzi
 * Gen AI Strategy & Leadership – Platzi
 
@@ -72,7 +69,6 @@ My background in AI is supported by formal training and hands-on experimentation
 * Deep Learning Specialization – Coursera
 * Claude Code in Action – Anthropic
 * OpenAI API & AI Tools – Platzi
-* Gen AI Strategy & Leadership – Platzi
 
 This complements my MSc in Artificial Intelligence and current work exploring real-world AI integrations.
 
