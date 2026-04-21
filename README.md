@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Felipe García
 
-Senior Fullstack Engineer | Tech Lead | AI/ML Engineer
-MSc in Artificial Intelligence | 10+ years building scalable software systems
+Senior Fullstack Engineer | Tech Lead | AI Engineer
+10+ years building scalable products with React, Node.js, AWS, and applied AI
 
 ---
 
 ## 🚀 About me
 
-I'm a Senior Software Engineer with over 10 years of experience designing, building, and leading high-impact software projects.
+I design and build scalable web products, lead engineering initiatives, and work across frontend, backend, cloud and AI integrations.
 
 My background combines strong engineering fundamentals with leadership experience, allowing me to not only build systems but also guide teams and improve development processes.
 
@@ -44,15 +44,13 @@ My background combines strong engineering fundamentals with leadership experienc
 
 ---
 
-## 📌 Featured Work
+## Featured Projects
 
-This GitHub contains a selection of projects that reflect my approach to engineering:
-
-* Scalable fullstack applications
-* Frontend performance optimization
-* API integrations and backend architecture
-* Reusable components and clean architecture
-* AI-powered solutions (in progress)
+- [deepseek-chat](...) – AI chatbot with TypeScript, frontend/backend split and local model integration
+- [doctors-engine-app](...) – Full-stack challenge with React, TypeScript and AWS-oriented architecture
+- [ml-model-docker](...) – ML model deployment to AWS Lambda using Serverless Framework
+- [angular-boilerplate](...) – Angular architecture with Material, Storybook, RxJs and NgRx
+- [android-auto-inclinometer](...) – Android Auto off-road inclinometer app built in Kotlin
 
 ---
 
