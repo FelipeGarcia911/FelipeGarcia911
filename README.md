@@ -46,11 +46,11 @@ My background combines strong engineering fundamentals with leadership experienc
 
 ## Featured Projects
 
-- [deepseek-chat](...) – AI chatbot with TypeScript, frontend/backend split and local model integration
-- [doctors-engine-app](...) – Full-stack challenge with React, TypeScript and AWS-oriented architecture
-- [ml-model-docker](...) – ML model deployment to AWS Lambda using Serverless Framework
-- [angular-boilerplate](...) – Angular architecture with Material, Storybook, RxJs and NgRx
-- [android-auto-inclinometer](...) – Android Auto off-road inclinometer app built in Kotlin
+- [deepseek-chat](https://github.com/FelipeGarcia911/deepseek-chat) – AI chatbot with TypeScript, frontend/backend split and local model integration
+- [doctors-engine-app](https://github.com/FelipeGarcia911/doctors-engine-app) – Full-stack challenge with React, TypeScript and AWS-oriented architecture
+- [ml-model-docker](https://github.com/FelipeGarcia911/ml-model-docker) – ML model deployment to AWS Lambda using Serverless Framework
+- [angular-boilerplate](https://github.com/FelipeGarcia911/angular-boilerplate) – Angular architecture with Material, Storybook, RxJs and NgRx
+- [android-auto-inclinometer](https://github.com/FelipeGarcia911/android-auto-inclinometer) – Android Auto off-road inclinometer app built in Kotlin
 
 ---
 
