@@ -54,12 +54,27 @@ My background combines strong engineering fundamentals with leadership experienc
 
 ---
 
-## 🧠 What I bring
+## 🎓 Certifications & Continuous Learning
 
-* Strong ownership and product mindset
-* Clean, scalable and maintainable code
-* Ability to design systems, not just features
-* Experience leading teams and improving processes
+* Deep Learning Specialization – Coursera
+* Architecting with Google Compute Engine – Coursera
+* Claude Code in Action – Anthropic
+* OpenAI API – Platzi
+* AI Tools for Developers – Platzi
+* Gen AI Strategy & Leadership – Platzi
+
+---
+
+## 🎓 Certifications & AI Focus
+
+My background in AI is supported by formal training and hands-on experimentation:
+
+* Deep Learning Specialization – Coursera
+* Claude Code in Action – Anthropic
+* OpenAI API & AI Tools – Platzi
+* Gen AI Strategy & Leadership – Platzi
+
+This complements my MSc in Artificial Intelligence and current work exploring real-world AI integrations.
 
 ---
 
